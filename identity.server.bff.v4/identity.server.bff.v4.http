@@ -1,0 +1,6 @@
+@identity.server.bff.v4_HostAddress = http://localhost:5260
+
+GET {{identity.server.bff.v4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
